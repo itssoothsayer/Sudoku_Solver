@@ -26,7 +26,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 - Prerequisites 
 1. Clone this repository to your local machine (if you haven't already):
    git clone hgit clone https://github.com/itssoothsayer/Sudoku_Solver.git
-2. Run the Sudoku Solver. The Sudoku Solver application will launch, allowing you to input your Sudoku puzzle and solve it.
+2. Run the sudokuUi.java file. The Sudoku Solver application will launch, allowing you to input your Sudoku puzzle and solve it.
 
 ### Demo
 - Click on the number you want to fill and then click to the desired cell to fill. To check if you placed the correct number click on Check Moves.
